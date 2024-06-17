@@ -61,7 +61,7 @@ section {
 
                 & img {
                     width: 100%;
-                    transform: rotate(-30deg);
+                    transform: rotate(-20deg);
                 }
                 &::before {
                     content: '';
