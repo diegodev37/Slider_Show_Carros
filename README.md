@@ -10,3 +10,5 @@
 
 
 https://slider-show-car.netlify.app/
+
+<img src= "https://github.com/diegodev37/Slider_Show_Carros/blob/main/Capa_do_Readme.jpg?raw=true">
