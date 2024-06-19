@@ -79,7 +79,7 @@ section {
 
             & .content {
                 position: absolute;
-                right: 100px;
+                right: 60px;
                 width: 70%;
                 height: 100%;
                 display: flex;
